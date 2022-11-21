@@ -1,5 +1,5 @@
 
-# Exploration of we rate dog tweeter account
+# Exploration of we rate dog twitter account
 
 The data was extracted from twitter with tweep and BeautifulSoup and one file had archived tweeters for this account
 
