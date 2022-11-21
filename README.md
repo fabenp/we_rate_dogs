@@ -1,7 +1,7 @@
 
 # Exploration of we rate dog tweeter account
 
-The data was extracted from tweeter with tweep and BeautifulSoup and one file had archived tweeters for this account
+The data was extracted from twitter with tweep and BeautifulSoup and one file had archived tweeters for this account
 
 the main goal of this project is to wrangle data in order to answer some questions about these photos
 
@@ -9,7 +9,7 @@ the main goal of this project is to wrangle data in order to answer some questio
 - What  rating tendencies?
 - How accurate is the dogbreed prediction?
 
-In this repository have theese documents:
+The following documents are in thisrepository:
 
 -image-predictions, tweet-json and twitter-archive-enhanced: raw data
 -twitter_archive_master: Cleaned data
