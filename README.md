@@ -15,3 +15,5 @@ The following documents are in this repository:
 -twitter_archive_master: Cleaned data
 - wrangle_act.ipynb : jupyter notebook with allthe wrangling
 - Act report : Article describing the main points
+
+![image](https://user-images.githubusercontent.com/55113875/203619197-af61a8b3-1061-44e6-820d-d25a305b14e9.png)
